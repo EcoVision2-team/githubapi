@@ -34,11 +34,11 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 # Objetivo do Projeto
 Este projeto tem como objetivo mapear o ecossistema Industrial e de Serviços da Região de São José dos Campos visando:
 * Fornecer uma base organizada de dados que facilite a interpretação, análise e visualização das informações sobre o setor industrial local;
-* Identificar e organizar os principais setores e indústrias da cidade, visando possibilitar uma análise clara da composição industrial;
-* Mapear os diferentes agentes do ecossistema, visando permitir visualizações estruturadas e comparações entre eles;
-* Analisar a distribuição e interações dos dados coletados, visando gerar insights sobre tendências, concentração setorial e áreas de destaque;
-* Avaliar indicadores econômicos e de atuação das indústrias, visando facilitar decisões estratégicas com base em dados concretos;
-* Consolidar todas as informações em um dashboard interativo, visando proporcionar interpretação rápida, prática e acessível dos dados para diferentes usuários.
+* Identificar e organizar os principais setores e indústrias da cidade, possibilitando uma análise clara da composição industrial;
+* Mapear os diferentes agentes do ecossistema, permitindo visualizações estruturadas e comparações entre eles;
+* Analisar a distribuição e interações dos dados coletados, gerando insights sobre tendências, concentração setorial e áreas de destaque;
+* Avaliar indicadores econômicos e de atuação das indústrias, facilitar decisões estratégicas com base em dados concretos;
+* Consolidar todas as informações em um dashboard interativo, buscando proporcionar interpretação rápida, prática e acessível dos dados para diferentes usuários.
 
 
 ## Tecnologias Utilizadas
