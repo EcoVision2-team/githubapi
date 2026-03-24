@@ -5,8 +5,9 @@ Template para os projetos de API, ensinando na utilização do repositório digi
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
 # Índice
-* [Objetivo do Projeto](#objetivo-do-projeto)
+
 * [Equipe](#Equipe)
+* [Objetivo do Projeto](#objetivo-do-projeto)
 * [Backlog do produto](#Product-Backlog)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 * [Registro das Sprints](#Registro-das-Sprints)
@@ -24,19 +25,20 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 | Scrum Master  | Nicolas  |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](insira o linkedlin) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)     |
 | Team Member   | João Buaski              |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joão-eduardo-buaski-ba555b2a5?utm_source=share_via&utm_content=profile&utm_medium=member_ios) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/joaobuaski)        |
 |  Team Member  | Felipe Villela                 |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-villela-1706613b9?utm_source=share_via&utm_content=profile&utm_medium=member_ios) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/felipelfvillela-lang)        |
-|  Team Member  | Iran                  |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)   |
-|  Team Member  | Icaro       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)    
-|  Team Member  | Amauri       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)    
+|  Team Member  | Iran Ricardo               |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iran-ricardo-a308a2288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/iranbragion)   |
+|  Team Member  | Ícaro Tuti      |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/icaro-tuti-n-86570b3a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/icaronazario)    
+|  Team Member  | Amauri D Santos       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amauri-d-santos-2091b8346?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2BrJM7q0jRzaifHjzoDJOIQ%3D%3D) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/amauridsantos77)    
 
 
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+Este projeto tem como objetivo mapear o ecossistema Industrial e de Serviços da Região de São José dos Campos visando:
+* Fornecer uma base organizada de dados que facilite a interpretação, análise e visualização das informações sobre o setor industrial local;
+* Identificar e organizar os principais setores e indústrias da cidade, visando possibilitar uma análise clara da composição industrial;
+* Mapear os diferentes agentes do ecossistema, visando permitir visualizações estruturadas e comparações entre eles;
+* Analisar a distribuição e interações dos dados coletados, visando gerar insights sobre tendências, concentração setorial e áreas de destaque;
+* Avaliar indicadores econômicos e de atuação das indústrias, visando facilitar decisões estratégicas com base em dados concretos;
+* Consolidar todas as informações em um dashboard interativo, visando proporcionar interpretação rápida, prática e acessível dos dados para diferentes usuários.
 
 
 ## Tecnologias Utilizadas
@@ -67,8 +69,8 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| 01                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp1.md)  |
-| 02                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp2.md)  |
-| 03                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp3.md)  |
-| Feira de Soluções | dd/mm/aaaa | a fazer  | [MVP](#)  |
+| 01                | 20/04/2026 | a fazer  | [MVP](MVP/sp1.md)  |
+| 02                | 18/05/2026 | a fazer  | [MVP](MVP/sp2.md)  |
+| 03                | 08/06/2026 | a fazer  | [MVP](MVP/sp3.md)  |
+| Feira de Soluções | 18/06/2026 | a fazer  | [MVP](#)  |
 
