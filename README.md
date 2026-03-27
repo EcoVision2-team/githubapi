@@ -52,8 +52,6 @@ Este projeto tem como objetivo mapear o ecossistema Industrial e de Serviços da
 
 # Product Backlog
 
-# Product Backlog
-
 | Rank | Prioridade | User Story | Estimativa | Sprint |
 |------|------------|------------|------------|--------|
 | 1 | Alta | Como tomador de decisões de políticas públicas, quero coletar dados da RAIS para analisar os dados do ecossistema produtivo dos principais setores de São José dos Campos. | 30/mar | 1 |
