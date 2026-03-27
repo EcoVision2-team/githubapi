@@ -52,16 +52,23 @@ Este projeto tem como objetivo mapear o ecossistema Industrial e de Serviços da
 
 # Product Backlog
 
-| Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
-|------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       | Como síndico, quero abrir solicitações de vistoria predial para atender à legislação de meu município                                                    | 5          | 1      |
-| 2    | Alta       | Como atendente, quero gerenciar as solicitações de vistoria para agendar atendimento                                                                    | 8          | 1      |
-| 3    | Alta       | Como síndico, quero receber o laudo da vistoria predial para anexar ao processo de auditoria da prefeitura                                               | 5          | 2      |
-| ...  | Média      | ...                                                                                                                                                     | ...        | ...    |
-| 17   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 3      |
+# Product Backlog
 
-
-
+| Rank | Prioridade | User Story | Estimativa | Sprint |
+|------|------------|------------|------------|--------|
+| 1 | Alta | Como tomador de decisões de políticas públicas, quero coletar dados da RAIS para analisar os dados do ecossistema produtivo dos principais setores de São José dos Campos. | 30/mar | 1 |
+| 2 | Alta | Como tomador de decisões de políticas públicas, quero entender a estrutura de dados para identificar variáveis relevantes. | 30/mar | 1 |
+| 3 | Alta | Como tomador de decisões de políticas públicas, quero importar os dados no Python e utilizando a biblioteca pandas realizar o tratamento das informações. | 10/abr | 1 |
+| 4 | Alta | Como tomador de decisões de políticas públicas, quero classificar as atividades econômicas predominantes (4 setores principais). | 10/abr | 1 |
+| 5 | Alta | Como tomador de decisões de políticas públicas, quero importar esses dados para o Github e conectar ao Power BI para visualização. | 17/abr | 1 |
+| 6 | Alta | Como tomador de decisões de políticas públicas, quero visualizar os principais setores industriais da região de São José dos Campos para análise. | 17/abr | 1 |
+| 7 | Alta | Como tomador de decisões de políticas públicas, quero criar painéis analíticos no Power BI para interpretar os dados. | 04/mai | 2 |
+| 8 | Alta | Como tomador de decisões de políticas públicas, quero um gráfico para visualização da distribuição geográfica dos setores produtivos na região. | 04/mai | 2 |
+| 9 | Alta | Como tomador de decisões de políticas públicas, quero visualizar indicadores econômicos e produtivos importantes. | 15/mai | 2 |
+| 10 | Alta | Como tomador de decisões de políticas públicas, quero visualizar graficamente a participação de diferentes setores na economia regional. | 25/mai | 3 |
+| 11 | Alta | Como tomador de decisões de políticas públicas, quero comparar diferentes segmentos industriais e de serviços para entender sua influência na economia. | 25/mai | 3 |
+| 12 | Média | Como tomador de decisões de políticas públicas, quero definir modelo, cor e layout. | 05/jun | 3 |
+| 13 | Alta | Como tomador de decisões de políticas públicas, quero uma interface clara e intuitiva combinando todos os blocos dentro do dashboard. | 05/jun | 3 |
 
 
   
