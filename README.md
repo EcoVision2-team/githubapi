@@ -45,7 +45,6 @@ Este projeto tem como objetivo mapear o ecossistema Industrial e de Serviços da
 * Power BI
 * Microsoft Excel
 * Python (Colab)
-* Mysql
 
 
 
@@ -67,7 +66,9 @@ Este projeto tem como objetivo mapear o ecossistema Industrial e de Serviços da
 | 12 | Média | Como tomador de decisões de políticas públicas, quero definir modelo, cor e layout. | 05/jun | 3 |
 | 13 | Alta | Como tomador de decisões de políticas públicas, quero uma interface clara e intuitiva combinando todos os blocos dentro do dashboard. | 05/jun | 3 |
 
-Código do google colab:https://colab.research.google.com/drive/1lq5vQ6udxyRsS2qs2T_-syoaOEGpHb-1?usp=sharing
+# Google Colab
+
+https://colab.research.google.com/drive/1lq5vQ6udxyRsS2qs2T_-syoaOEGpHb-1?usp=sharing
   
 # Registro das Sprints
 
