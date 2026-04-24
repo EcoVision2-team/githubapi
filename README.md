@@ -11,9 +11,13 @@
 
 # Projeto (API) 
 Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO).
+
 Dentro desse contexto, foi desenvolvido um processo de tratamento e análise de dados utilizando Python no ambiente Google Colab, com foco na base de dados da RAIS (Relação Anual de Informações Sociais). Essa etapa tem como objetivo viabilizar o mapeamento do ecossistema industrial e de serviços da região de São José dos Campos por meio da transformação de dados brutos em informações estruturadas.
+
 O processo inclui a importação dos dados com a biblioteca pandas, a filtragem dos registros com base no recorte geográfico do município, a seleção de variáveis relevantes (como setor econômico, CNAE, vínculos empregatícios e indicadores salariais), além do tratamento de inconsistências e organização das informações. Posteriormente, os dados são agrupados e consolidados, permitindo identificar padrões, concentração de setores e principais atividades econômicas da região.
+
 As informações tratadas servem como base para integração com o Power BI, onde são construídos dashboards interativos que possibilitam a análise visual dos dados, facilitando a interpretação e a tomada de decisão.
+
 Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprint.
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
