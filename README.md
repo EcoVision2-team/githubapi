@@ -1,3 +1,13 @@
+# EcoVision - O eco da inovação
+
+![Status](https://img.shields.io/badge/status-em%20andamento-green)
+![Projeto](https://img.shields.io/badge/API-Fatec%20SJC-blue)
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+![Dados](https://img.shields.io/badge/Dados-RAIS-lightgrey)
+
+## 📊 Mapeamento do Ecossistema Industrial e de Serviços
+
 # Aprendizado por Projeto Integrado (API) - Mapeamento do Ecossistema Industrial e de Serviços da Região de São José dos Campos
 
 # Índice
@@ -67,8 +77,10 @@ Este projeto tem como objetivo mapear o ecossistema Industrial e de Serviços da
 | 12 | Média | Como tomador de decisões de políticas públicas, quero definir modelo, cor e layout. | 05/jun | 3 |
 | 13 | Alta | Como tomador de decisões de políticas públicas, quero uma interface clara e intuitiva combinando todos os blocos dentro do dashboard. | 05/jun | 3 |
 
-# Google Colab
+# Tratamento e Filtragem de Dados (Python – Google Colab)
+Para viabilizar o mapeamento do ecossistema industrial e de serviços da região de São José dos Campos, foi desenvolvido um código em Python no ambiente Google Colab com o objetivo de realizar a extração, filtragem e tratamento dos dados provenientes da base RAIS (Relação Anual de Informações Sociais).
 
+Dísponivel em:
 https://colab.research.google.com/drive/1lq5vQ6udxyRsS2qs2T_-syoaOEGpHb-1?usp=sharing
   
 # Registro das Sprints
