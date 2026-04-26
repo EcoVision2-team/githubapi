@@ -29,9 +29,8 @@ Limitações:
 * Recorte geográfico específico
 * Atualização não automatizada
 
-Escopo:
+Escopo: O MVP contempla o tratamento e organização dos dados e sua visualização inicial, sendo melhorias e expansões previstas para etapas futuras.
 
-O MVP contempla o tratamento e organização dos dados e sua visualização inicial, sendo melhorias e expansões previstas para etapas futuras.
 ---
 
 ## 👥 Personas / Usuários-Alvo
