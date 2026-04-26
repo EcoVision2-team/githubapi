@@ -12,11 +12,26 @@ O valor entregue ao usuário final consiste na disponibilização de dados limpo
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+> A solução consiste no desenvolvimento de um processo de tratamento de dados utilizando Python (Google Colab), seguido da construção de um dashboard no Power BI.
 
+Funcionalidades principais:
+
+* Importação da base RAIS
+* Filtragem por São José dos Campos
+* Tratamento e limpeza de dados
+* Agrupamento por setores econômicos
+* Geração de base estruturada
+* Visualização em dashboard interativo
+
+Limitações:
+
+* Uso de uma única base de dados
+* Recorte geográfico específico
+* Atualização não automatizada
+
+Escopo:
+
+O MVP contempla o tratamento e organização dos dados e sua visualização inicial, sendo melhorias e expansões previstas para etapas futuras.
 ---
 
 ## 👥 Personas / Usuários-Alvo
