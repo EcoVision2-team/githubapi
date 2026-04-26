@@ -1,10 +1,13 @@
 # 📌 MVP - Mapeamento do Ecossistema Industrial e de Serviços da Região de São José dos Campos
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+> O MVP tem como objetivo validar a capacidade de transformar dados brutos da base RAIS em informações estruturadas que permitam identificar os principais setores econômicos da região de São José dos Campos.
+
+O problema abordado é a dificuldade de interpretação de grandes volumes de dados não tratados, que dificultam análises econômicas e tomadas de decisão.
+
+A hipótese validada é que, por meio do tratamento e filtragem dos dados em Python, é possível gerar informações organizadas e relevantes.
+
+O valor entregue ao usuário final consiste na disponibilização de dados limpos e estruturados, aliados a uma visualização clara em dashboard, facilitando a análise e compreensão do cenário econômico. 
 
 ---
 
