@@ -42,9 +42,16 @@ Escopo: O MVP contempla o tratamento e organização dos dados e sua visualizaç
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
-
+| US1 | Como tomador de decisões de políticas públicas, quero coletar dados da RAIS para analisar os dados do ecossistema produtivo dos principais setores de São José dos Campos. | Alta | ? |
+| US2 | Como tomador de decisões de políticas públicas, quero entender a estrutura de dados para identificar variáveis relevantes. | Alta | ? |
+| US3 | Como tomador de decisões de políticas públicas, quero importar os dados no Python e utilizando a biblioteca pandas realizar o tratamento das informações. | Alta | ? |
+| US4 | Como tomador de decisões de políticas públicas, quero classificar as atividades econômicas predominantes (4 setores principais). | Alta | ? |
+| US5 | Como tomador de decisões de políticas públicas, quero importar esses dados para o Github e conectar ao Power BI para visualização. | Alta | ? |
+| US6 | Como tomador de decisões de políticas públicas, quero visualizar os principais setores industriais da região de São José dos Campos para análise. | Alta | ? |
+| US7 | Como tomador de decisões de políticas públicas, quero criar painéis analíticos no Power BI para interpretar os dados. | Alta | ? |
+| US8 | Como tomador de decisões de políticas públicas, quero um gráfico para visualização da distribuição geográfica dos setores produtivos na região. | Alta | ? |
+| US9 | Como tomador de decisões de políticas públicas, quero visualizar indicadores econômicos e produtivos importantes. | Alta | ? |
+| US10 | Como tomador de decisões de políticas públicas, quero visualizar graficamente a participação de diferentes setores na economia regional. | Alta | ? |
 ---
 
 ## 📅 Sprint(s) Relacionadas
