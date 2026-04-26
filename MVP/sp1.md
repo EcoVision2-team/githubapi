@@ -71,10 +71,10 @@ O MVP contempla o tratamento e organização dos dados e sua visualização inic
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
-
+* Integração completa com Power BI
+* Refinamento visual do dashboard
+* Inclusão de novos indicadores
+* Expansão da análise para outras regiões
 ---
 
 ## 📂 Anexos / Evidências
