@@ -36,11 +36,16 @@ Escopo: O MVP contempla o tratamento e organização dos dados e sua visualizaç
 ## 👥 Personas / Usuários-Alvo
 - **Persona 1:** Prefeitura de São José dos Campos (Gestão Pública)
 Representa órgãos públicos responsáveis pelo planejamento e desenvolvimento econômico da região.
+
 Necessidade: acesso a dados estruturados e confiáveis sobre o mercado de trabalho e setores produtivos.
+
 Dor: dificuldade em interpretar grandes volumes de dados brutos e ausência de informações organizadas para embasar decisões estratégicas.
+
 - **Persona 2:**  Marcus (Cliente / Tomador de Decisão)
 Perfil de usuário interessado em compreender o cenário econômico local.
+
 Necessidade: visualização clara dos principais setores econômicos e seus indicadores.
+
 Dor: dificuldade em obter análises consolidadas e confiáveis a partir de dados dispersos e pouco estruturados.
 
 ---
