@@ -39,7 +39,7 @@ Representa órgãos públicos responsáveis pelo planejamento e desenvolvimento 
 Necessidade: acesso a dados estruturados e confiáveis sobre o mercado de trabalho e setores produtivos.
 Dor: dificuldade em interpretar grandes volumes de dados brutos e ausência de informações organizadas para embasar decisões estratégicas.
 - **Persona 2:**  Marcus (Cliente / Tomador de Decisão)
-Perfil de usuário interessado em compreender o cenário econômico local para fins estratégicos ou analíticos.
+Perfil de usuário interessado em compreender o cenário econômico local.
 Necessidade: visualização clara dos principais setores econômicos e seus indicadores.
 Dor: dificuldade em obter análises consolidadas e confiáveis a partir de dados dispersos e pouco estruturados.
 
