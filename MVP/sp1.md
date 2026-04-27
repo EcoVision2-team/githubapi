@@ -94,7 +94,7 @@ Dor: dificuldade em obter análises consolidadas e confiáveis a partir de dados
 * Integração completa com Power BI
 * Refinamento visual do dashboard
 * Inclusão de novos indicadores
-* Expansão da análise para outras regiões
+* Expansão da análise para outros setores
 ---
 
 ## 📂 Anexos / Evidências
