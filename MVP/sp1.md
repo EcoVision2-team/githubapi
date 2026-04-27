@@ -103,11 +103,6 @@ Dor: dificuldade em obter análises consolidadas e confiáveis a partir de dados
 - 🌐 **Acesse:** https://app.powerbi.com/view?r=eyJrIjoiYjYzNDNlN2EtMzIwYS00ODE0LThlNTAtZDBjYjI4ZGE3NmI0IiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9&embedImagePlaceholder=true
 ---
 
-## 📁 Base de Dados Tratada 
-📄 **Arquivo:** [rais_sjc_limpo (1).csv](https://github.com/user-attachments/files/27109170/rais_sjc_limpo.1.csv)
-- Contém os dados da base RAIS após limpeza, filtragem e organização, prontos para análise.
----
-
 ## 📊 Slides da Apresentação
 - 📄 **Arquivo:**[Eco Vision O Eco da Inovação_20260426_233509_0000.pdf](https://github.com/user-attachments/files/27110154/Eco.Vision.O.Eco.da.Inovacao_20260426_233509_0000.pdf)
 - Apresenta os objetivos, metodologia, desenvolvimento e resultados do projeto.
