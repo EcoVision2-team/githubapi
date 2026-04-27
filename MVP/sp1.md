@@ -41,7 +41,7 @@ Necessidade: acesso a dados estruturados e confiáveis sobre o mercado de trabal
 
 Dor: dificuldade em interpretar grandes volumes de dados brutos e ausência de informações organizadas para embasar decisões estratégicas.
 
-- **Persona 2:**  Marcus (Cliente / Tomador de Decisão)
+- **Persona 2:** Prof. Me. Marcus Vinicius do Nascimento  (Cliente / Tomador de Decisão)
 Perfil de usuário interessado em compreender o cenário econômico local.
 
 Necessidade: visualização clara dos principais setores econômicos e seus indicadores.
