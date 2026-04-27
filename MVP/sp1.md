@@ -105,8 +105,8 @@ Dor: dificuldade em obter análises consolidadas e confiáveis a partir de dados
 ---
 
 ## 📁 Base de Dados Tratada 
-- Contém os dados da base RAIS após limpeza, filtragem e organização, prontos para análise.[rais_sjc_limpo (1).csv](https://github.com/user-attachments/files/27109170/rais_sjc_limpo.1.csv)
-
+📄 **Arquivo:** [rais_sjc_limpo (1).csv](https://github.com/user-attachments/files/27109170/rais_sjc_limpo.1.csv)
+- Contém os dados da base RAIS após limpeza, filtragem e organização, prontos para análise.
 ---
 
 ## 📊 Slides da Apresentação
