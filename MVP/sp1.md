@@ -68,14 +68,17 @@ Dor: dificuldade em obter análises consolidadas e confiáveis a partir de dados
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 01     | [Coleta da base RAIS; entendimento da estrutura dos dados; tratamento em Python (pandas); classificação dos setores econômicos; integração com GitHub e conexão inicial com Power BI; visualização inicial dos setores industriais]                        | Concluído|
+| 02     | [Criação de painéis analíticos no Power BI; desenvolvimento de gráfico de distribuição geográfica; definição de indicadores econômicos e produtivos; início da análise visual dos dados]                           | Em andamento |
+
+
+
 
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
+- O MVP deve permitir que o usuário [visualize e analise os principais setores econômicos de São José dos Campos a partir de dados estruturados da base RAIS.]  
+- O sistema deve registrar [o processamento dos dados (importação, filtragem, tratamento e geração da base final), garantindo consistência entre os dados tratados no Python e os apresentados no dashboard.]  
 - Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
 
 ---
@@ -95,6 +98,27 @@ Dor: dificuldade em obter análises consolidadas e confiáveis a partir de dados
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+
+## 📊 Dashboard Power BI
+- 🌐 **Acesse:** https://app.powerbi.com/view?r=eyJrIjoiYjYzNDNlN2EtMzIwYS00ODE0LThlNTAtZDBjYjI4ZGE3NmI0IiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9&embedImagePlaceholder=true
+
+---
+
+## 📁 Base de Dados Tratada
+- 📄 **Arquivo:** `dados_tratados.csv`  
+- Contém os dados da base RAIS após limpeza, filtragem e organização, prontos para análise.[[rais_sjc_limpo (1).csv](https://github.com/user-attachments/files/27109170/rais_sjc_limpo.1.csv)
+]
+---
+
+## 📊 Slides da Apresentação
+- 📄 **Arquivo:** `apresentacao_mvp[Eco Vision O Eco da Inovação.pdf](https://github.com/user-attachments/files/27109166/Eco.Vision.O.Eco.da.Inovacao.pdf)
+.pptx`  
+- Apresenta os objetivos, metodologia, desenvolvimento e resultados do projeto.
+
+---
+
+## 📋 Planejamento 5W2H
+- 📄 **Arquivo:** `5w2h_projeto.xlsx[5W2H.xlsx](https://github.com/user-attachments/files/27109203/5W2H.xlsx)
+`  
+- Contém o planejamento estratégico utilizado no desenvolvimento do MVP.
+
