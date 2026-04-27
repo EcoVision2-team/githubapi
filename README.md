@@ -58,6 +58,7 @@ Este projeto tem como objetivo mapear o ecossistema Industrial e de Serviços da
 * Power BI
 * Microsoft Excel
 * Python (Colab)
+* Canva
 
 
 
