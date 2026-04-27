@@ -68,8 +68,8 @@ Dor: dificuldade em obter análises consolidadas e confiáveis a partir de dados
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Coleta da base RAIS; entendimento da estrutura dos dados; tratamento em Python (pandas); classificação dos setores econômicos; integração com GitHub e conexão inicial com Power BI; visualização inicial dos setores industriais]                        | Concluído|
-| 02     | [Criação de painéis analíticos no Power BI; desenvolvimento de gráfico de distribuição geográfica; definição de indicadores econômicos e produtivos; início da análise visual dos dados]                           | Em andamento |
+| 01     | Coleta da base RAIS; entendimento da estrutura dos dados; tratamento em Python (pandas); classificação dos setores econômicos; integração com GitHub e conexão inicial com Power BI; visualização inicial dos setores industriais                       | Concluído|
+| 02     | Criação de painéis analíticos no Power BI; desenvolvimento de gráfico de distribuição geográfica; definição de indicadores econômicos e produtivos; início da análise visual dos dados                          | Em andamento |
 
 
 
@@ -77,8 +77,8 @@ Dor: dificuldade em obter análises consolidadas e confiáveis a partir de dados
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [visualize e analise os principais setores econômicos de São José dos Campos a partir de dados estruturados da base RAIS.]  
-- O sistema deve registrar [o processamento dos dados (importação, filtragem, tratamento e geração da base final), garantindo consistência entre os dados tratados no Python e os apresentados no dashboard.]  
+- O MVP deve permitir que o usuário visualize e analise os principais setores econômicos de São José dos Campos a partir de dados estruturados da base RAIS.  
+- O sistema deve registrar o processamento dos dados (importação, filtragem, tratamento e geração da base final), garantindo consistência entre os dados tratados no Python e os apresentados no dashboard. 
 - Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
 
 ---
@@ -104,21 +104,18 @@ Dor: dificuldade em obter análises consolidadas e confiáveis a partir de dados
 
 ---
 
-## 📁 Base de Dados Tratada
-- 📄 **Arquivo:** `dados_tratados.csv`  
-- Contém os dados da base RAIS após limpeza, filtragem e organização, prontos para análise.[[rais_sjc_limpo (1).csv](https://github.com/user-attachments/files/27109170/rais_sjc_limpo.1.csv)
-]
+## 📁 Base de Dados Tratada 
+- Contém os dados da base RAIS após limpeza, filtragem e organização, prontos para análise.[rais_sjc_limpo (1).csv](https://github.com/user-attachments/files/27109170/rais_sjc_limpo.1.csv)
+
 ---
 
 ## 📊 Slides da Apresentação
-- 📄 **Arquivo:** `apresentacao_mvp[Eco Vision O Eco da Inovação.pdf](https://github.com/user-attachments/files/27109166/Eco.Vision.O.Eco.da.Inovacao.pdf)
-.pptx`  
+- 📄 **Arquivo:**[Eco Vision O Eco da Inovação.pdf](https://github.com/user-attachments/files/27109231/Eco.Vision.O.Eco.da.Inovacao.pdf)
 - Apresenta os objetivos, metodologia, desenvolvimento e resultados do projeto.
 
 ---
 
 ## 📋 Planejamento 5W2H
-- 📄 **Arquivo:** `5w2h_projeto.xlsx[5W2H.xlsx](https://github.com/user-attachments/files/27109203/5W2H.xlsx)
-`  
+- 📄 **Arquivo:** [5W2H.xlsx](https://github.com/user-attachments/files/27109234/5W2H.xlsx)
 - Contém o planejamento estratégico utilizado no desenvolvimento do MVP.
 
