@@ -59,10 +59,7 @@ Dor: dificuldade em obter análises consolidadas e confiáveis a partir de dados
 | US4 | Como tomador de decisões de políticas públicas, quero classificar as atividades econômicas predominantes (4 setores principais). | Alta | ? |
 | US5 | Como tomador de decisões de políticas públicas, quero importar esses dados para o Github e conectar ao Power BI para visualização. | Alta | ? |
 | US6 | Como tomador de decisões de políticas públicas, quero visualizar os principais setores industriais da região de São José dos Campos para análise. | Alta | ? |
-| US7 | Como tomador de decisões de políticas públicas, quero criar painéis analíticos no Power BI para interpretar os dados. | Alta | ? |
-| US8 | Como tomador de decisões de políticas públicas, quero um gráfico para visualização da distribuição geográfica dos setores produtivos na região. | Alta | ? |
-| US9 | Como tomador de decisões de políticas públicas, quero visualizar indicadores econômicos e produtivos importantes. | Alta | ? |
-| US10 | Como tomador de decisões de políticas públicas, quero visualizar graficamente a participação de diferentes setores na economia regional. | Alta | ? |
+
 ---
 
 ## 📅 Sprint(s) Relacionadas
